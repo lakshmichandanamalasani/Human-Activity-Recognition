@@ -1,3 +1,4 @@
 # Human-Activity-Recognition using Hyrid Deep Learning Model
 
-Done by using MHEALTHDATASET
+
+Dataset: MHEALTHDATASET,mhealth_raw_data.csv
